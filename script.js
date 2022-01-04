@@ -16,4 +16,4 @@
     const indexEnd = Math.floor(Math.random()*10);
     return begin[index] + begin2 + mid1[indexMid] + mid2 + end1[indexEnd]
  };
- console.log(mixedMessage())
+ //console.log(mixedMessage())
